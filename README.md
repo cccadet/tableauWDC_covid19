@@ -42,6 +42,7 @@ OBS.: O endereço exibido nesta janela é o que deve ser copiado para realizar a
 ## Material de Apoio Tableau
 WDS Get Started
  - https://tableau.github.io/webdataconnector/docs/index.html
+ 
 WDS no Tableau Server:
  - https://help.tableau.com/current/server-linux/pt-br/datasource_wdc.htm
  - https://help.tableau.com/current/server-linux/pt-br/cli_data-access.htm#web-data-connectors-add
