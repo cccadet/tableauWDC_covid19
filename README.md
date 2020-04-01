@@ -27,7 +27,9 @@ Web Data Connector para Tableau usando a API https://brasil.io/api/dataset/covid
 7. Clicar em **Start Interactive Phase** e uma janela será aberta. 
 
 8. Clicar em **Get Data**.
+
 ![](get_data.PNG)
+
 OBS.: O endereço exibido nesta janela é o que deve ser copiado para realizar a conexão no Tableau.
 
 9. Clicar em **Fetch Table Data** e verificar se os dados foram exibidos corretamente. Caso sim, é possível usar os dados no Tableau Desktop para publicação de bases.
