@@ -37,6 +37,14 @@ OBS.: O endereço exibido nesta janela é o que deve ser copiado para realizar a
 ![](wdc_tableau.gif)
 
 
+## Material de Apoio Tableau
+WDS Get Started
+ - https://tableau.github.io/webdataconnector/docs/index.html
+WDS no Tableau Server:
+ - https://help.tableau.com/current/server-linux/pt-br/datasource_wdc.htm
+ - https://help.tableau.com/current/server-linux/pt-br/cli_data-access.htm#web-data-connectors-add
+
+
 ## Licença
 
 A licença do código é [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html) e
